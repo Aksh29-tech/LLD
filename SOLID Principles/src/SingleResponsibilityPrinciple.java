@@ -33,7 +33,7 @@ class Marker {
 //
 //}
 
-//Now this class have multiple reason to change but to satisy the principle there is only one reason.
+//Now this class have multiple reason to change but to satisfy the principle there is only one reason.
 //we can divide the above clas in three different class.
 class Invoice {
     private Marker marker;

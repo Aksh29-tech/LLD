@@ -28,5 +28,9 @@ class Bicycle implements Bike {
     }
 }
 //we are reducing the capability of parent class (Bike) in Bicycle so Liskov Principle is not satisfying here.
+
 public class LiskovSubstitutionPrinciple {
+    public static void main(String[] args) {
+
+    }
 }
