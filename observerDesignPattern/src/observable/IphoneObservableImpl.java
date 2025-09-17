@@ -1,7 +1,6 @@
 package observable;
 
 import observer.NotificationAlertObserver;
-
 import java.util.ArrayList;
 import java.util.List;
 
